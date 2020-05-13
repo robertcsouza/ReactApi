@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #1976d2;
+    
+}
+
+#sair{
+    background-color: #1976d2;
+    border: none;
+}
+
+#sair:hover{
+    background-color: #1565c0;
+}
+
